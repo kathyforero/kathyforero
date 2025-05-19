@@ -5,7 +5,7 @@
 
 ---
 
-## 🌸 Repository Sections
+## 💖 Repository Sections
 
 ### 💁‍♀️ About Me
 
@@ -18,22 +18,19 @@
 
 ## 🧰 Technologies & Tools
 
-**💻 Programming Languages:**
+### 💻 Programming Languages:
 
-* 🌟 Java (Advanced)
-* 🐍 Python (Intermediate)
-* 💎 Ruby, 🎯 Dart, 🐘 PHP (Basic)
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" height="22"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white" height="22">
 
-**📊 Databases:**
+### 🛢 Databases:
 
-* 🛠 MySQL (Intermediate)
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" height="22">
 
-**🌈 Frameworks & Libraries:**
+### 🌈 Frameworks & Libraries:
 
-* 🎨 JavaFX (Intermediate)
-* 💙 Flutter, ✅ JUnit (Basic)
+<img src="https://img.shields.io/badge/JavaFX-%2343853D.svg?style=plastic&logo=java&logoColor=white" height="22"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white" height="22"> <img src="https://img.shields.io/badge/JUnit-%23525d6d.svg?style=plastic&logo=java&logoColor=white" height="22">
 
-**🌟 Other Skills:**
+### 🧠 Other Skills:
 
 * 🔄 Object-Oriented Programming (OOP)
 * 🧠 MVC, Refactoring & Design Patterns
@@ -47,8 +44,6 @@
 ✨ Full-featured interface with binary file management.
 **Tech Stack:** Java, JavaFX
 **Status:** ✅ Completed
-**Preview:**
-![Inventory UI](path-to-your-screenshot.png)
 
 ---
 
@@ -57,8 +52,6 @@
 🧪 Simulated lexical, syntactic & semantic analyzers for PHP.
 **Tech Stack:** Python
 **Status:** ✅ Completed
-**Preview:**
-![Login](path-to-your-screenshot.png)
 
 ---
 
@@ -67,8 +60,6 @@
 🛍 Web application for vehicle sales with both frontend and backend integration.
 **Tech Stack:** Flutter, Dart, Java, Spring Boot
 **Status:** ✅ Completed
-**Preview:**
-![Flutter UI](path-to-your-screenshot.png)
 
 ---
 
@@ -88,9 +79,14 @@
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-* 💻 **BSc in Computer Engineering – ESPOL** (2022 - Present)
-* 🏫 **Science High School Diploma – Unidad Educativa Bilingüe Interamericano** (2007 - 2022)
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kathyforero&theme=rose_pine&hide_border=false" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=kathyforero&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyforero&theme=rose_pine&hide_border=false&layout=compact" />
+
+</div>
