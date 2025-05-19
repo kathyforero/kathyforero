@@ -1,7 +1,7 @@
 # ✨ Katherine Forero ✨
 
-🎓 **Computer Engineering Student @ ESPOL**
-💖 Passionate about modern software development with a creative flair. I bring a strong background in object-oriented programming, data structures, databases, and tools like JavaFX and Flutter. Known for empathy, teamwork, and a love for problem-solving with a touch of elegance.
+🎓 **Computer Engineering Student @ ESPOL**<br>
+💖 Passionate about modern software development with a creative flair. I have a strong background in object-oriented programming, data structures, databases, and tools like JavaFX and Flutter. Known for empathy, teamwork, and a love for problem-solving with a touch of elegance.
 
 ---
 
@@ -12,7 +12,6 @@
 * 💡 Lifelong learner committed to personal and professional growth.
 * 📚 Currently in my 5th semester of Computer Engineering.
 * 🤝 Excellent team player with a love for collaboration and creative thinking.
-* 📧 Email: `kforero@espol.edu.ec`
 
 ---
 
@@ -41,24 +40,40 @@
 
 ### 🚗 [Vehicle Sales App Prototype](https://github.com/kathyforero/Proyecto-EstructurasDeDatos.git)
 
-✨ Full-featured interface with binary file management.
-**Tech Stack:** Java, JavaFX
+✨ Full-featured interface with binary file management.<br>
+**Tech Stack:** Java, JavaFX<br>
 **Status:** ✅ Completed
 
 ---
 
 ### 🔍 [PHP LSS Analyzers](https://github.com/kathyforero/ProyectoPHP-AnalizadoresLSS.git)
 
-🧪 Simulated lexical, syntactic & semantic analyzers for PHP.
-**Tech Stack:** Python
+🧪 Simulated lexical, syntactic & semantic analyzers for PHP.<br>
+**Tech Stack:** Python<br>
 **Status:** ✅ Completed
 
 ---
 
-### 💻 [Web Vehicle Sales App](https://github.com/kathyforero/LP-FINAL.git)
+### 🚗💻 [Web Vehicle Sales App](https://github.com/kathyforero/LP-FINAL.git)
 
-🛍 Web application for vehicle sales with both frontend and backend integration.
-**Tech Stack:** Flutter, Dart, Java, Spring Boot
+🛍 Web application for vehicle sales with both frontend and backend integration.<br>
+**Tech Stack:** Flutter, Dart, Java, Spring Boot<br>
+**Status:** ✅ Completed
+
+---
+
+### ❓🧙🏻‍♀️ [Riddle Application Based on Files and Binary Trees](https://github.com/DERS0214/ESTADISTICA-PROYECTO)
+
+🛍 An interactive application with a simple and aesthetic interface that allows a player to upload question and answer files, leading to the creation of a binary tree that unifies them, enabling easy and straightforward question-and-answer gameplay.<br>
+**Tech Stack:** R Boot<br>
+**Status:** ✅ Completed
+
+---
+
+### 💲👩🏻‍🏫 [Analysis Between the Relationship of One's Economic Situation and Our Academic Performance](https://github.com/DERS0214/ED-Proyecto-2P)
+
+🛍 A project that studies the relationship between an individual's economic situation and their academic performance. Using charts and various statistical tools like Sample Analysis, Qualitative and Quantitative Statistics, Hypothesis Formulation, and Confidence Intervals, all the involved factors were analyzed, leading to a somewhat ambiguous conclusion, where stress appears to play a more significant role than anything else.<br>
+**Tech Stack:** Java, JavaFX<br>
 **Status:** ✅ Completed
 
 ---
@@ -76,6 +91,13 @@
 * 📧 Email: `kforero@espol.edu.ec`
 * 💼 LinkedIn: [linkedin.com/in/katherineforero](https://www.linkedin.com/in/katherineforero)
 * 🐱‍👤 GitHub: [github.com/kathyforero](https://github.com/kathyforero)
+
+---
+
+## 🎓 Academic Education
+
+- **Computing Engineering – ESPOL** (2022 - Present day)  
+- **Bachelor of Science – Unidad Educativa Bilingüe Interamericano** (2007 - 2022)
 
 ---
 
