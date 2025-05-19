@@ -1,96 +1,96 @@
-# Katherine Forero
+# ✨ Katherine Forero ✨
 
-**Estudiante de Ingeniería en Computación - ESPOL**  
-Apasionada por el desarrollo de software moderno, con formación en programación orientada a objetos, estructuras de datos, bases de datos y frameworks como JavaFX y Flutter. Me destaco por mi empatía, trabajo en equipo y capacidad de resolución de problemas.
-
----
-
-## 📁 Secciones del Repositorio
-
-### 📌 Sobre mí
-
-- Estudiante comprometida con enfoque en el aprendizaje continuo.
-- Actualmente curso el 5to semestre de Ingeniería en Computación.
-- Gran capacidad de adaptación, resolución de problemas y trabajo en equipo.
-- Correo: `kforero@espol.edu.ec`
+🎓 **Computer Engineering Student @ ESPOL**
+💖 Passionate about modern software development with a creative flair. I bring a strong background in object-oriented programming, data structures, databases, and tools like JavaFX and Flutter. Known for empathy, teamwork, and a love for problem-solving with a touch of elegance.
 
 ---
 
-### 🛠 Tecnologías y Herramientas
+## 🌸 Repository Sections
 
-**Lenguajes de programación:**
+### 💁‍♀️ About Me
 
-- Java (Avanzado)
-- Python (Intermedio)
-- Ruby, Dart, PHP (Básico)
-
-**Bases de datos:**
-
-- MySQL (Intermedio)
-
-**Frameworks y librerías:**
-
-- JavaFX (Intermedio)
-- Flutter, JUnit (Básico)
-
-**Otros conocimientos:**
-
-- Programación orientada a objetos
-- MVC, refactorización, patrones de diseño
+* 💡 Lifelong learner committed to personal and professional growth.
+* 📚 Currently in my 5th semester of Computer Engineering.
+* 🤝 Excellent team player with a love for collaboration and creative thinking.
+* 📧 Email: `kforero@espol.edu.ec`
 
 ---
 
-### 🚀 Proyectos Personales
+## 🧰 Technologies & Tools
 
-#### 🎯 [Prototipo de App de Venta de Vehículos](https://github.com/kathyforero/Proyecto-EstructurasDeDatos.git)
+**💻 Programming Languages:**
 
-Interfaz Completa e Interactiva con Manejo de Archivos Binarios.  
-**Tecnologías:** Java, JavaFX.  
-**Estado:** ✅ Completado  
-**Capturas:**  
-![Inventario UI](ruta-a-tu-captura.png)
+* 🌟 Java (Advanced)
+* 🐍 Python (Intermediate)
+* 💎 Ruby, 🎯 Dart, 🐘 PHP (Basic)
 
----
+**📊 Databases:**
 
-#### 🔐 [Analizadores Léxico, Sintáctico y Semántico para PHP](https://github.com/kathyforero/ProyectoPHP-AnalizadoresLSS.git)
+* 🛠 MySQL (Intermediate)
 
-Simulador a Pequeña Escala de Analizadores LSS para PHP
-**Tecnologías:** Python.  
-**Estado:** ✅ Completado 
-**Capturas:**  
-![Login](ruta-a-tu-captura.png)
+**🌈 Frameworks & Libraries:**
 
----
+* 🎨 JavaFX (Intermediate)
+* 💙 Flutter, ✅ JUnit (Basic)
 
-#### 📊 [Prototipo de App de Venta de Vehículos de Forma Web Manejado Localmente](https://github.com/kathyforero/LP-FINAL.git)
+**🌟 Other Skills:**
 
-App de Venta de Vehículos de Forma Web Con Su Respectivo Backend y Frontend.  
-**Tecnologías:** Flutter, Dart, Java, SpringBoot.  
-**Estado:** ✅ Completado 
-**Capturas:**  
-![Flutter UI](ruta-a-tu-captura.png)
+* 🔄 Object-Oriented Programming (OOP)
+* 🧠 MVC, Refactoring & Design Patterns
 
 ---
 
-### 🌍 Idiomas
+## 🌷 Personal Projects
 
-- **Español:** Nativo  
-- **Inglés:** Intermedio  
-- **Francés:** Básico
+### 🚗 [Vehicle Sales App Prototype](https://github.com/kathyforero/Proyecto-EstructurasDeDatos.git)
 
----
-
-### 📬 Contacto
-
-- **Correo:** kforero@espol.edu.ec 
-- **LinkedIn:** [linkedin.com/in/katherineforero](https://www.linkedin.com/in/katherineforero)  
-- **GitHub:** [github.com/kathyforero](https://github.com/kathyforero)  
+✨ Full-featured interface with binary file management.
+**Tech Stack:** Java, JavaFX
+**Status:** ✅ Completed
+**Preview:**
+![Inventory UI](path-to-your-screenshot.png)
 
 ---
 
-### 📚 Formación Académica
+### 🔍 [PHP LSS Analyzers](https://github.com/kathyforero/ProyectoPHP-AnalizadoresLSS.git)
 
-- **Ingeniería en Computación – ESPOL** (2022 - Actualidad)  
-- **Bachillerato en Ciencias – Unidad Educativa Bilingüe Interamericano** (2007 - 2022)
+🧪 Simulated lexical, syntactic & semantic analyzers for PHP.
+**Tech Stack:** Python
+**Status:** ✅ Completed
+**Preview:**
+![Login](path-to-your-screenshot.png)
+
+---
+
+### 💻 [Web Vehicle Sales App](https://github.com/kathyforero/LP-FINAL.git)
+
+🛍 Web application for vehicle sales with both frontend and backend integration.
+**Tech Stack:** Flutter, Dart, Java, Spring Boot
+**Status:** ✅ Completed
+**Preview:**
+![Flutter UI](path-to-your-screenshot.png)
+
+---
+
+## 🌍 Languages
+
+* 🇪🇸 **Spanish:** Native
+* 🇬🇧 **English:** Intermediate
+* 🇫🇷 **French:** Basic
+
+---
+
+## 💌 Contact Me
+
+* 📧 Email: `kforero@espol.edu.ec`
+* 💼 LinkedIn: [linkedin.com/in/katherineforero](https://www.linkedin.com/in/katherineforero)
+* 🐱‍👤 GitHub: [github.com/kathyforero](https://github.com/kathyforero)
+
+---
+
+## 🎓 Education
+
+* 💻 **BSc in Computer Engineering – ESPOL** (2022 - Present)
+* 🏫 **Science High School Diploma – Unidad Educativa Bilingüe Interamericano** (2007 - 2022)
 
 ---
