@@ -1,7 +1,7 @@
 # ✨ Katherine Forero ✨
 
 🎓 **Computer Engineering Student @ ESPOL**<br>
-💖 Passionate about modern software development with a creative flair. I have a strong background in object-oriented programming, data structures, databases, and tools like JavaFX and Flutter. Known for empathy, teamwork, and a love for problem-solving with a touch of elegance.
+💖 Hi, everyone! Thank you for getting around here 🩷. Passionate about modern software development with a creative flair. I have a strong background in object-oriented programming, data structures, databases, and tools like JavaFX and Flutter. Known for empathy, teamwork, and a love for problem-solving with a touch of elegance.
 
 ---
 
@@ -72,7 +72,7 @@
 
 ### 💲👩🏻‍🏫 [Analysis Between the Relationship of One's Economic Situation and Our Academic Performance](https://github.com/DERS0214/ED-Proyecto-2P)
 
-🛍 A project that studies the relationship between an individual's economic situation and their academic performance. Using charts and various statistical tools like Sample Analysis, Qualitative and Quantitative Statistics, Hypothesis Formulation, and Confidence Intervals, all the involved factors were analyzed, leading to a somewhat ambiguous conclusion, where stress appears to play a more significant role than anything else.<br>
+🛍 Using charts and various statistical tools like Sample Analysis, Qualitative and Quantitative Statistics, Hypothesis Formulation, and Confidence Intervals, all the involved factors on the studied subjects were analyzed, leading to a somewhat ambiguous conclusion.<br>
 **Tech Stack:** Java, JavaFX<br>
 **Status:** ✅ Completed
 
@@ -101,6 +101,11 @@
 
 ---
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://www.picgifs.com/graphics/k/kawaii/graphics-kawaii-298315.gif)" width="384"/>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -110,4 +115,3 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyforero&layout=compact&theme=rose_pine&border_radius=20" alt="Top Lenguajes"/>
 </p>
-
