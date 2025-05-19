@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
+  <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
+  <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
+  <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
+</p>
+
 # ✨ Katherine Forero ✨
 
 🎓 **Computer Engineering Student @ ESPOL**<br>
@@ -5,7 +12,22 @@
 
 ---
 
-## 💖 Repository Sections
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+  <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="40"/>
+</p>
+
+<h2 align="center"> 💖 Repository Sections </h2>
 
 ### 💁‍♀️ About Me
 
@@ -36,7 +58,17 @@
 
 ---
 
-## 🌷 Personal Projects
+<p align="center">
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="60"/>
+</p>
+<h2 align="center"> 🌷 Personal Projects </h2>
 
 ### 🚗 [Vehicle Sales App Prototype](https://github.com/kathyforero/Proyecto-EstructurasDeDatos.git)
 
@@ -101,12 +133,18 @@
 
 ---
 
+<h2 align="center"> 📊 GitHub Stats </h2>
+
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://www.picgifs.com/graphics/k/kawaii/graphics-kawaii-298315.gif)" width="384"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
+  <img src="https://i.gifer.com/YAg6.gif" width="100"/>
 </p>
 
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kathyforero&theme=rose-pine&border_radius=20" alt="GitHub Streak"/>
@@ -114,4 +152,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kathyforero&show_icons=true&theme=rose_pine&border_radius=20" alt="GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyforero&layout=compact&theme=rose_pine&border_radius=20" alt="Top Lenguajes"/>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/23/78/43/237843df9cb874b148029a13e93bd12e.gif" width="300"/>
 </p>
