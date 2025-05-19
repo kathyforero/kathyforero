@@ -81,12 +81,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kathyforero&theme=rose-pine&border_radius=20" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kathyforero&show_icons=true&theme=rose_pine&border_radius=20" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyforero&layout=compact&theme=rose_pine&border_radius=20" alt="Top Lenguajes"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kathyforero&theme=jolly&hide_border=false" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kathyforero&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathyforero&theme=jolly&hide_border=false&layout=compact" />
-
-</div>
