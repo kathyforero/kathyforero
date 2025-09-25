@@ -1,4 +1,4 @@
--*<p align="center">
+<p align="center">
   <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
   <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
   <img src="https://proxy.everskies.com/a/https://tinyurl.com/srdjasd8" width="200"/>
